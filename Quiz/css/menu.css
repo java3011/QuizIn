@@ -1,0 +1,10 @@
+nav ul a {
+    font-family: serif;
+    color: black;
+    height: 30px;
+}
+
+nav ul p {
+    color: green;
+    line-height: 0px;
+}
